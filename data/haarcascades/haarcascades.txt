@@ -1,0 +1,2 @@
+For face detection using Haar Cascades, it is necessary to utilize machine learning and to have a dataset with numerous 
+positive images with faces and negative images without faces.
