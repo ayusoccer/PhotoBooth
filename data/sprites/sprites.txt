@@ -1,0 +1,1 @@
+These are sprites used for the filters in the application.
